@@ -2,7 +2,7 @@
 
 > **High-Performance Interactive 3D WebGL & Modern Scrollytelling Experience**
 
-![UI and UX 1st](debug_success.png)
+![UI and UX 1st](preview.png)
 
 A flagship digital experience combining **Swiss Typographic Rigor**, **Industrial Maritime Telemetry**, and **Apple-grade Micro-Interactions**.
 
