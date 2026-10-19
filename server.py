@@ -18,6 +18,12 @@ class Handler(http.server.SimpleHTTPRequestHandler):
         self.send_header('Cache-Control', 'no-cache')
         super().end_headers()
 
+    def do_GET(self):
+        if self.path in ('/', '/index.html'):
+            if os.path.exists('standalone.html') and not os.path.exists('dist/index.html'):
+                self.path = '/standalone.html'
+        return super().do_GET()
+
     def guess_type(self, path):
         if path.endswith('.js'):
             return 'text/javascript'

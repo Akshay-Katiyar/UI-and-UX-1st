@@ -3,9 +3,24 @@
   "version": "1.0.0",
   "private": true,
   "description": "UI and UX 1st - High-performance interactive 3D WebGL, scrollytelling and design system experience",
-  "main": "server.py",
+  "type": "module",
   "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
     "start": "python server.py"
+  },
+  "dependencies": {
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "three": "^0.163.0",
+    "gsap": "^3.12.5"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "@tailwindcss/vite": "^4.0.0",
+    "tailwindcss": "^4.0.0",
+    "vite": "^6.0.0"
   },
   "keywords": [
     "ui-ux",
