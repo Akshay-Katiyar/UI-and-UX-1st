@@ -1,5 +1,12 @@
 # UI and UX 1st 🌐
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Free for Community](https://img.shields.io/badge/Community-100%25%20Free%20%26%20Open%20Source-brightgreen.svg)](#-100-free--open-source-for-everyone)
+[![React 19](https://img.shields.io/badge/React-19-61dafb.svg)](https://react.dev)
+[![Three.js](https://img.shields.io/badge/Three.js-WebGL-black.svg)](https://threejs.org)
+[![Tailwind CSS v4](https://img.shields.io/badge/TailwindCSS-v4-38bdf8.svg)](https://tailwindcss.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Akshay-Katiyar/UI-and-UX-1st/pulls)
+
 > **High-Performance Interactive 3D WebGL & Modern Scrollytelling Experience**
 
 ![UI and UX 1st](preview.png)
@@ -96,6 +103,17 @@ http://localhost:5173
   - Beacon Signal Orange (`--signal`): `#ff6b2c`
   - Secondary Signal Gold (`--signal-2`): `#ffb547`
   - Maritime Sea Cyan (`--sea`): `#46d6c8`
+
+---
+
+## 🎁 100% Free & Open Source for Everyone
+
+This project is created and provided **100% free of charge** to the developer, designer, and startup community by **[Akshay Katiyar](https://github.com/Akshay-Katiyar)**.
+
+- 🚀 **Commercial & Personal Use**: You can use this for client projects, freelance contracts, startups, or company websites without paying anything.
+- 🎨 **Portfolios & Case Studies**: Perfect showcase piece for modern WebGL, 3D interactive design, and GSAP scrollytelling.
+- 📦 **Full Unrestricted Code Access**: No locked features, no premium paywalls, no hidden dependencies.
+- ⭐ **Support**: If you find this helpful, feel free to give the repository a **Star ⭐** on GitHub!
 
 ---
 
