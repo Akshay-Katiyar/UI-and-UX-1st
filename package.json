@@ -1,0 +1,21 @@
+{
+  "name": "ui-and-ux-1st",
+  "version": "1.0.0",
+  "private": true,
+  "description": "UI and UX 1st - High-performance interactive 3D WebGL, scrollytelling and design system experience",
+  "main": "server.py",
+  "scripts": {
+    "start": "python server.py"
+  },
+  "keywords": [
+    "ui-ux",
+    "threejs",
+    "gsap",
+    "tailwindcss",
+    "react",
+    "design-system",
+    "scrollytelling"
+  ],
+  "author": "Akshay Katiyar",
+  "license": "MIT"
+}

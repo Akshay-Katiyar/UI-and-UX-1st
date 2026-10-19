@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+debug*.png
+
+# Environment & Temp
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
